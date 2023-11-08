@@ -8,6 +8,7 @@ tqdm==4.64.1
 hdbscan==0.8.33
 folium==0.13.0
 IPython==8.15.0
+ipython==8.15.0
 statsmodels==0.14.0
 
 #re
