@@ -10,7 +10,7 @@ folium==0.13.0
 IPython==8.15.0
 ipython==8.15.0
 statsmodels==0.14.0
-plotly==8.2.2
+plotly==5.9.0
 
 #re
 #bs4==
